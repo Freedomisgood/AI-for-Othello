@@ -10,6 +10,7 @@ from copy import deepcopy
 
 import numpy as np
 
+
 from board import Board
 from config import C
 
@@ -107,7 +108,7 @@ class Node():
         # print("Winner:", tempBoard.get_winner())
         # V1. 如果赢了+1, 输了或者平局为0
         corner_v = get_corner_score(tempBoard, self.chess.getGraph())
-        print(corner_v)
+        # print("corner_v:", corner_v)
         return int(tempBoard.get_winner()[0] == self.chess.getVal()) + corner_v / 4
 
     def backpropagate(self, value):

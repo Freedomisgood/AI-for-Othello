@@ -62,35 +62,35 @@ MSCT-target： Start：从可行位置进行树探索 -> End：一个价值比�
 
 ##### 初级WIN
 
-![12](E:\hexo\source\_posts\AI-for-Othello\basic_初级win-中级Lost\初级\12.png)
+![12](./pics/basic_初级win-中级Lost/初级/12.png)
 
-![21](E:\hexo\source\_posts\AI-for-Othello\basic_初级win-中级Lost\初级\21.png)
+![21](./pics/basic_初级win-中级Lost/初级/21.png)
 
-![22](E:\hexo\source\_posts\AI-for-Othello\basic_初级win-中级Lost\初级\22.png)
+![22](./pics/basic_初级win-中级Lost/初级/22.png)
 
 ##### 中级LOSS：
 
-![11](E:\hexo\source\_posts\AI-for-Othello\basic_初级win-中级Lost\中级\11.png)
+![11](./pics/basic_初级win-中级Lost/中级/11.png)
 
-![12](E:\hexo\source\_posts\AI-for-Othello\basic_初级win-中级Lost\中级\12.png)
+![12](./pics/basic_初级win-中级Lost/中级/12.png)
 
-![21](E:\hexo\source\_posts\AI-for-Othello\basic_初级win-中级Lost\中级\21.png)
+![21](./picsbasic_初级win-中级Lost/中级/21.png)
 
-![22](E:\hexo\source\_posts\AI-for-Othello\basic_初级win-中级Lost\中级\22.png)
+![22](./pics/basic_初级win-中级Lost/中级/22.png)
 
 #### 加上corner：
 
 ##### 中级tie
 
-![11](E:\hexo\source\_posts\AI-for-Othello\加上corner\11.png)
+![11](./pics/加上corner/11.png)
 
-![12](E:\hexo\source\_posts\AI-for-Othello\加上corner\12.png)
+![12](./pics/加上corner/12.png)
 
 ##### 中级WIN
 
-![21](E:\hexo\source\_posts\AI-for-Othello\加上corner\21.png)
+![21](./pics/加上corner/21.png)
 
-![22](E:\hexo\source\_posts\AI-for-Othello\加上corner\22.png)
+![22](./pics/加上corner/22.png)
 
 
 

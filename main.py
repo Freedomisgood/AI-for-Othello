@@ -5,7 +5,9 @@
 # @Blog    : https://nymrli.top/
 # 导入黑白棋文件
 from game import Game
-from ai import AIPlayer, RandomPlayer
+from ai.mcts import AIPlayer
+from ai.randm import RandomPlayer
+
 
 # 人类玩家黑棋初始化
 black_player = RandomPlayer("X")
