@@ -57,7 +57,7 @@ MSCT-target： Start：从可行位置进行树探索 -> End：一个价值比�
 
 虽然加上了corner，但是对站中级还是赢少输多， 看了下比赛棋盘，发现对corner的限制并不奏效，希望能找到更好的方法吧。
 
-
+![mct-seq](./pics/mct-seq.png)
 
 ### 战力
 
