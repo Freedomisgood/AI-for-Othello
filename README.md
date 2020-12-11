@@ -1,4 +1,7 @@
 # AI-for-Othello
+
+> ZJU浙江大学 - 《2020 春夏 - 人工智能》课程作业：https://mo.zju.edu.cn/homework/zju_ai_2020_ss
+
 ## something about Othello
 
 ### 黑白棋规则

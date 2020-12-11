@@ -206,7 +206,7 @@ class MCT():
         :return:
         """
         v = root            # 所有v节点都是我方走的state
-        # TODO: 从while not game_over(v.board): 改为了下面, 如果不能走的话就结束
+        # MARK: 从while not game_over(v.board): 改为了下面, 如果不能走的话就结束
         while not is_terminal(v.board, v.chess.getGraph()):  # 一直探索到游戏结束。在游戏未完全结束的时候每次会从v.extend退出
             if not v.is_fully_expanded():
                 # 如果v还没遍历完的话，那么就继续从左往右依次遍历其子节点
